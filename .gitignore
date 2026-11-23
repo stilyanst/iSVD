@@ -1,0 +1,28 @@
+# Data: third-party, not redistributed (build with experiments/prepare_etf_data.py,
+# see data/README.md)
+data/*
+!data/README.md
+*.csv
+*.pkl
+
+# Output of experiments/reproduce.py and timing_figures.py (default --outdir)
+results/
+*.pdf
+
+# Python caches and packaging
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store

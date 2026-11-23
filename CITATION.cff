@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper in preferred-citation and, for the exact code version, this software."
+title: "isvd: incremental SVD with a posteriori error bounds and refresh policies"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/stilyanst/iSVD"
+keywords:
+  - incremental SVD
+  - streaming matrices
+  - low-rank approximation
+  - a posteriori error bound
+authors:
+  - family-names: Staykov
+    given-names: Stilyan
+    orcid: "https://orcid.org/0009-0006-2193-033X"
+    affiliation: "Eindhoven University of Technology"
+preferred-citation:
+  type: article
+  title: "Incremental SVD for Large-Scale Dynamic Matrices"
+  authors:
+    - family-names: Staykov
+      given-names: Stilyan
+      orcid: "https://orcid.org/0009-0006-2193-033X"
+      affiliation: "Eindhoven University of Technology"
+  year: 2026
+  journal: "arXiv preprint"
+  doi: "10.48550/arXiv.2605.24514"
+  url: "https://arxiv.org/abs/2605.24514"
+  identifiers:
+    - type: doi
+      value: "10.48550/arXiv.2605.24514"
+      description: "DOI of the arXiv preprint"
+    - type: other
+      value: "arXiv:2605.24514"
+      description: "arXiv identifier"
