@@ -1,6 +1,6 @@
 # isvd: incremental SVD with a posteriori error bounds and refresh policies
 
-[![DOI](https://zenodo.org/badge/DOI/TODO-ZENODO-DOI.svg)](https://doi.org/TODO-ZENODO-DOI)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24481008.svg)](https://doi.org/10.5281/zenodo.24481008)
 [![tests](https://github.com/stilyanst/iSVD/actions/workflows/tests.yml/badge.svg)](https://github.com/stilyanst/iSVD/actions/workflows/tests.yml)
 
 Code of the paper "Incremental SVD for Large-Scale Dynamic Matrices" (arXiv:2605.24514),
@@ -155,8 +155,8 @@ To refer to this exact version of the code, cite the software archived on Zenodo
   title   = {isvd: incremental {SVD} with a posteriori error bounds and refresh policies},
   version = {1.0.0},
   year    = {2026},
-  doi     = {TODO-ZENODO-DOI},
-  url     = {https://doi.org/TODO-ZENODO-DOI}
+  doi     = {10.5281/zenodo.24481009},
+  url     = {https://doi.org/10.5281/zenodo.24481009}
 }
 ```
 
